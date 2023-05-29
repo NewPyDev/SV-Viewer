@@ -1,0 +1,5 @@
+Pillow==9.5.0
+Pillow==9.5.0
+pycountry==22.3.5
+Requests==2.30.0
+streamlit_lottie==0.0.3
